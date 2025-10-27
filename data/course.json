@@ -1,0 +1,49 @@
+{
+  "term": "January IAP",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ]
+  ],
+  "legacy_uid": "843871cd-fcce-186b-55cf-12a2b4d1fb84",
+  "instructors": {
+    "content": [
+      "765d5e3c-4737-d2ff-24ab-5b208d1fc1aa"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "cbe0795c-02a1-1ef0-d745-9f6f7a951f7a",
+    "website": "21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008"
+  },
+  "course_title": "Special Topics in Literature: Milton's \"Paradise Lost\"",
+  "course_description": "In this 3-unit class, we will read Milton's epic poem _Paradise Lost_. The goal of the class is for students to come away feeling comfortable with its language and argument; meeting in a small group will also allow us to talk about the key questions and issues raised by the poem. This course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.995",
+  "course_image_thumbnail": {
+    "content": "a89d0ead-84a6-0751-879a-1fe667b5ea5d",
+    "website": "21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "29277d00-0342-43d9-b74b-f32365d1f182",
+  "site_short_id": "21l.995-january-iap-2008",
+  "site_url_path": "courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008",
+  "title": "Course Metadata"
+}
